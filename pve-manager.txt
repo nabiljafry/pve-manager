@@ -36978,7 +36978,7 @@ Ext.define('PVE.StdWorkspace', {
 		    items: [
 			{
 			    html: '<a class="x-unselectable" target=_blank href="http://www.proxmox.com">' +
-				'<img style="padding-top:4px;padding-right:5px" src="/pve2/images/proxmox_logo.png"/></a>'
+				'<img style="padding-top:4px;padding-right:5px" src="/pve2/images/adamant.png"/></a>'
 			},
 			{
 			    minWidth: 200,
